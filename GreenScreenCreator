@@ -17,3 +17,4 @@ for (var pixel of fgImage.values()){
         output.setPixel(x, y, pixel);
     }
 }
+print(output);
